@@ -1,4 +1,4 @@
-![alt text](exoplanet.jpg "Exoplanets")
+![alt text](exoplanet_image.jpg "Exoplanets")
 
 # machine-learning-challenge
 
