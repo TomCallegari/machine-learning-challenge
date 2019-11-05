@@ -1,4 +1,4 @@
-![alt text](exoplanet.jpb "Exoplanets")
+![alt text](exoplanet.jpg "Exoplanets")
 
 # machine-learning-challenge
 
