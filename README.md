@@ -1,6 +1,8 @@
+![alt text](exoplanet.jpb "Exoplanets")
+
 # machine-learning-challenge
 
-The purpose of this assignment was to explore, manipulate and build and then compare multiple machine learning models from the [NASA Kepler Space Telescope](https://www.kaggle.com/nasa/kepler-exoplanet-search-results)
+The purpose of this assignment was to explore, manipulate, build and then compare multiple machine learning models from the [NASA Kepler Space Telescope](https://www.kaggle.com/nasa/kepler-exoplanet-search-results)
 dataset.
 
 This Github Repository contains Jupyter Notebook files for each model and the data wrangling process used to build the algorithm ready dataset.
