@@ -21,3 +21,14 @@ This Github Repository contains Jupyter Notebook files for each model and the da
 Different versions of data transformations were conducted during the project and run using the 3 chosen algorithms.  A variable by variable squared transformation, sin transformation and log transformation were each used to compare model accuracy with a final log then zscore transformation outputting the greatest accuracy. Prior to model ingestion a 0 < x < 1 min-max data scaling was also used to ensure variable magnitudes were relative for euclidean based distance measures and to speed gradient descent convergence.
 
 Throughout the machine learning process the highest accuracies always floated around .90 to .909.  Adding, subtracting, transforming and subsetting the data never provided a breakthrough past these points.  To potentially increase the test accuracy of the models a further, deeper understanding of the domain knowledge providing the data would be necessary. As well, potentially averaging the predictions for each model through an ensemble method or algorithm might bear better results.
+
+### Python Packages Used
+
+* Sklearn
+* Tensorflow.Keras
+* Numpy
+* Pandas
+* Matplotlib
+* Seaborn
+* Scipy
+* Joblib
