@@ -14,9 +14,9 @@ This Github Repository contains Jupyter Notebook files for each model and the da
 
 ## Results Comparison
 
-- Random Forest: .90 Weighted Average Accuracy
 - GBM: .91 Weighted Average Accuracy
 - DNN: .905 Accuracy
+- Random Forest: .90 Weighted Average Accuracy
 
 Different versions of data transformations were conducted during the project and run using the 3 chosen algorithms.  A variable by variable squared transformation, sin transformation and log transformation were each used to compare model accuracy with a final log then zscore transformation outputting the greatest accuracy. Prior to model ingestion a 0 < x < 1 min-max data scaling was also used to ensure variable magnitudes were relative for euclidean based distance measures and to speed gradient descent convergence.
 
