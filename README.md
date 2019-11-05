@@ -32,3 +32,11 @@ Throughout the modeling and testing process the highest accuracies achieved floa
 * Seaborn
 * Scipy
 * Joblib
+
+### Load Model
+```
+from joblib import dump, load
+
+GBM = load('GBM.joblib')
+
+```
