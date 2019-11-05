@@ -6,7 +6,7 @@ dataset.
 This Github Repository contains Jupyter Notebook files for each model and the data wrangling process used to build the algorithm ready dataset.
 
 
-..* [Data Wrangling](https://github.com/TomCallegari/machine-learning-challenge/blob/master/Wrangling.ipynb)
-..* [Random Forest](https://github.com/TomCallegari/machine-learning-challenge/blob/master/RandomForest.ipynb)
-..* [Gradient Boosting Machine (GBM)](https://github.com/TomCallegari/machine-learning-challenge/blob/master/GBM.ipynb)
-..* [Tensorflow.Keras Dense Deep Neural Network](https://github.com/TomCallegari/machine-learning-challenge/blob/master/Deep_NN.ipynb)
+* [Data Wrangling](https://github.com/TomCallegari/machine-learning-challenge/blob/master/Wrangling.ipynb)
+* [Random Forest](https://github.com/TomCallegari/machine-learning-challenge/blob/master/RandomForest.ipynb)
+* [Gradient Boosting Machine (GBM)](https://github.com/TomCallegari/machine-learning-challenge/blob/master/GBM.ipynb)
+* [Tensorflow.Keras Dense Deep Neural Network](https://github.com/TomCallegari/machine-learning-challenge/blob/master/Deep_NN.ipynb)
