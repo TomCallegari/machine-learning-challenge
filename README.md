@@ -35,7 +35,7 @@ Throughout the modeling and testing process the highest accuracies achieved floa
 
 ### Load Model
 ```
-from joblib import dump, load
+from joblib import load
 
 GBM = load('GBM.joblib')
 
